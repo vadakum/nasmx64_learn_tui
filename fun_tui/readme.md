@@ -1,6 +1,6 @@
 # 🫐 Fun Tui
 
-We will use `termbox2` to handle terminal input/output (it's added as a dependency in the `Makefile`). 
+We will use `termbox2` to handle terminal input/output (it's added as a dependency in the `Makefile` and builds automatically). 
 `termbox2` is a single-header file library alternative to `ncurses` and has built-in support for popular terminals. 
 
 ## Table of Contents
