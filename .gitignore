@@ -1,0 +1,10 @@
+# executables, we are explicitly naming them .bin
+*.bin
+# object file
+*.o
+# list file generated withe -l option
+*.lst
+# lib archives
+*.a
+# swap files
+*.swp
